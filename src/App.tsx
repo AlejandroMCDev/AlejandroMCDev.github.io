@@ -22,7 +22,7 @@ const PORTFOLIO_DATA = {
   linkedin: "https://www.linkedin.com/in/josean-mendez-1970b7283/",
   github: "https://github.com/AlejandroMCDev",
   about:
-    "Desarrollador Front-End con sólida experiencia construyendo aplicaciones web escalables y eficientes utilizando React, Next.js y TypeScript. Especializado en la modernización de arquitecturas, integración de pasarelas de pago y diseño de interfaces optimizadas. Enfocado en la resolución proactiva de problemas y en la entrega de soluciones tecnológicas con alto impacto operativo, aplicando metodologías ágiles (SCRUM) y las mejores prácticas de desarrollo.",
+    "Desarrollador Full Stack con sólida experiencia construyendo aplicaciones web escalables y eficientes utilizando React, Next.js, NestJS y TypeScript. Especializado en la modernización de arquitecturas, integración de sistemas end-to-end y diseño de interfaces optimizadas. Enfocado en la resolución proactiva de problemas y en la entrega de soluciones tecnológicas con alto impacto operativo, aplicando metodologías ágiles (SCRUM) y las mejores prácticas de desarrollo de software.",
   experience: [
     {
       company: "CCPLL",
